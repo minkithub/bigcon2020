@@ -7,3 +7,8 @@
 *.PRJ
 *.SHP
 *.SHX
+
+# 폴더 무시
+2020dataset/
+
+
