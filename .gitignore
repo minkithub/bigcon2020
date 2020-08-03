@@ -10,6 +10,6 @@
 *.DS_Store
 
 # 폴더 무시
-/2020dataset/
+2020dataset/
 
 
