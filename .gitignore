@@ -13,6 +13,7 @@
 # 폴더 무시
 ######################
 2020dataset/
+.ipynb_checkpoints/
 
 # OS generated files #
 ######################
