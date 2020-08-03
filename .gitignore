@@ -1,0 +1,9 @@
+# 확장자 무시
+*.txt
+*.xlsx
+*.text
+*.CSV
+*.DBF
+*.PRJ
+*.SHP
+*.SHX
