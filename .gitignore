@@ -1,0 +1,54 @@
+# 확장자 무시
+######################
+*.txt
+*.xlsx
+*.text
+*.CSV
+*.DBF
+*.PRJ
+*.SHP
+*.SHX
+*.DS_Store
+
+# 폴더 무시
+######################
+2020dataset/
+2020dataset_discription/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
